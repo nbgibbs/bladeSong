@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "04f14e3b670454a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e616cd482abd8d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ab13dd92e12e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "victory-level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce185544b4ead27e",
+    "type": "split",
+    "children": [
+      {
+        "id": "175aa1dccc4be99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ae566fd4dddbf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a58b03a6e2d8df6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f43eaba9ab41c333",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c0b064b27f7fdbb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fba08dfc8b81143b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069af19937fa05c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "victory-level.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4eff98614bafc17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "victory-level.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a1da2c43594af6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae3953990840ec98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "victory-level.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "59ab13dd92e12e56",
+  "lastOpenFiles": [
+    "spells.md",
+    "victory-level.md",
+    "hand-to-hand.md",
+    "injury.md",
+    "Untitled.md",
+    "combat.md",
+    "wound.md",
+    "weapons.md",
+    "characters.md",
+    "cheatSheet.md",
+    "magic.md"
+  ]
+}
