@@ -29,6 +29,8 @@ Reach weapons: Man height weapons and larger
 
 	add 4 additional dice and effectively reduce the target's armor by 3
 
+# type
+
 Blunt = -2, +3
 Axe = -1, +1
 Crude = -1, -1 injury is halved rounded down (improvements can remove damage -)

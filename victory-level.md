@@ -2,10 +2,10 @@
 # Level 1 victory
 
 * Minor [[injury]], opponent receives – 1 to all physical checks but will naturally heal over the next few days, or faster if treated actively.
-* Stagger (gain the initiative on the next round)
-* stun (- 1 on next round)
+* Stun (gain the initiative on the next round)
+* Stagger(- 1 on next round)
 * Enter/exit close combat, can choose to change weapons with another equipped weapon for free instead of weapon changes happening at the end of the action-phase of the round they are declared on.
-* if in close combat take opponent to ground.
+* if in close combat take opponent to ground (prone)
 
 # Level 2 victory
 
