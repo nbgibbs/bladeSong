@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "victory-level.md",
+                "file": "characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "victory-level.md",
+                "file": "characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "victory-level.md",
+                "file": "characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "victory-level.md"
+                "file": "characters.md"
               }
             }
           }
@@ -160,17 +160,26 @@
   },
   "active": "a5cfb93b05a18599",
   "lastOpenFiles": [
-    "hand-to-hand.md",
-    "weapons.md",
+    "magic.md",
     "armor.md",
     "cheatSheet.md",
+    "injury/injury.md",
+    "combat/action phase.md",
+    "injury",
+    "combat/combat.md",
+    "combat/declaration phase.md",
+    "combat",
+    "hand-to-hand/hand-to-hand.md",
+    "hand-to-hand/maneuvers.md",
+    "hand-to-hand",
+    "weapons/meele.md",
+    "injury/wound.md",
+    "weapons/ranged.md",
+    "weapons/weapons.md",
+    "weapons",
+    "combat/victory-level.md",
     "characters.md",
     "spells.md",
-    "Untitled.canvas",
-    "wound.md",
-    "injury.md",
-    "magic.md",
-    "victory-level.md",
-    "combat.md"
+    "Untitled.canvas"
   ]
 }

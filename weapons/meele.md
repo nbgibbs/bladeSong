@@ -1,4 +1,4 @@
-Meele weapons in this system will grant the wielder additional dice to use in [[hand-to-hand]] combat. Additionally, individual weapons will have certain anti-armor properties, and certain wound properties. 
+[[meele]] weapons in this system will grant the wielder additional dice to use in [[hand-to-hand]] combat. Additionally, individual weapons will have certain anti-armor properties, and certain wound properties. 
 
 For example a war hammer will be more effective than a sword against armor (assuming the same victory level) and a knife will deal more serious and lasting wounds than a simple stick of similar proportions. 
 
