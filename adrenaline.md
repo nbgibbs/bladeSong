@@ -1,0 +1,1 @@
+Same as [[focus]] except they can only be used on physical rolls instead of mental rolls.

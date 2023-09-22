@@ -1,4 +1,4 @@
-Every round of combat is divided into 2 phases. There is a [[declaration phase]], where creatures declare what they intend to do from lowest initiative to the highest (thus the faster creatures can react to the slower ones), and an [[action phase]], where the actions actually take place (all actions happen at the same time unless one action would prevent another from happening in which case the one of the higher initiative creature takes priority)
+Every round of combat is divided into 2 phases. There is a [[declaration-phase]], where creatures declare what they intend to do from lowest initiative to the highest (thus the faster creatures can react to the slower ones), and an [[action-phase]], where the actions actually take place (all actions happen at the same time unless one action would prevent another from happening in which case the one of the higher initiative creature takes priority)
 
 # declaration phase
 

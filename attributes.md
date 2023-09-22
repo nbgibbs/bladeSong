@@ -1,4 +1,4 @@
-Creatures have 5 core attributes. 2 of which are physical, 2 are mental and 1 is a hybrid of the two.
+Creatures have 5 core attributes. 2 of which are physical, 2 are mental and 1 is a hybrid of the two. Rolls that use physical atributes use [[adrenaline]] points and mental rolls use [[focus]] points.
 
 Physical:
 	Strength

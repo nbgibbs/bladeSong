@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atributes.md",
+                "file": "00-start-here.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atributes.md",
+                "file": "00-start-here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atributes.md",
+                "file": "00-start-here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atributes.md"
+                "file": "00-start-here.md"
               }
             }
           }
@@ -160,17 +160,20 @@
   },
   "active": "a5cfb93b05a18599",
   "lastOpenFiles": [
+    "tmp",
+    "combat/declaration-phase.md",
+    "combat/action-phase.md",
     "characters.md",
-    "atributes.md",
-    "00 start-here.md",
+    "00-start-here.md",
+    "adrenaline.md",
+    "attributes.md",
+    "focus.md",
     "combat/combat.md",
     "magic.md",
     "armor.md",
     "cheatSheet.md",
     "injury/injury.md",
-    "combat/action phase.md",
     "injury",
-    "combat/declaration phase.md",
     "combat",
     "hand-to-hand/hand-to-hand.md",
     "hand-to-hand/maneuvers.md",
