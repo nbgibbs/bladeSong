@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-start-here.md",
+                "file": "weapons/ranged.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5435ef723210f0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weapons/ranged.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-start-here.md",
+                "file": "weapons/ranged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-start-here.md",
+                "file": "weapons/ranged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-start-here.md"
+                "file": "weapons/ranged.md"
               }
             }
           }
@@ -158,32 +170,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5cfb93b05a18599",
+  "active": "5435ef723210f0da",
   "lastOpenFiles": [
+    "weapons/weapons.md",
+    "combat/combat.md",
+    "combat/action-phase.md",
+    "combat/victory-level.md",
+    "hand-to-hand/maneuvers.md",
+    "cheatSheet.md",
+    "00-start-here.md",
     "tmp",
     "combat/declaration-phase.md",
-    "combat/action-phase.md",
     "characters.md",
-    "00-start-here.md",
     "adrenaline.md",
     "attributes.md",
     "focus.md",
-    "combat/combat.md",
     "magic.md",
     "armor.md",
-    "cheatSheet.md",
     "injury/injury.md",
     "injury",
     "combat",
     "hand-to-hand/hand-to-hand.md",
-    "hand-to-hand/maneuvers.md",
     "hand-to-hand",
     "weapons/meele.md",
     "injury/wound.md",
     "weapons/ranged.md",
-    "weapons/weapons.md",
     "weapons",
-    "combat/victory-level.md",
     "spells.md",
     "Untitled.canvas"
   ]

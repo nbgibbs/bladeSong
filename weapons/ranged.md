@@ -1,4 +1,4 @@
-Ranged attacks are made by first rolling to hit (base of 3 plus agility plus weapon proficiency) then rolling for damage (weapon specific).
+	Ranged attacks are made by first rolling to hit (base of 3 plus agility plus weapon proficiency) then rolling for damage (weapon specific).
 
 The difficulty to hit will be based on range and size of target.
 
