@@ -1,0 +1,1 @@
+defencive: +2d but can not achive victory levels
