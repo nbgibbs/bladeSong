@@ -1,3 +1,5 @@
+The goal here is for combat to feel fast paced and cinematic allowing for creatures to utilize the environment and their allies to their      advantage. Instead of loads of hit points that are slowly depleted the trajectory of a fight is determined by the position every member of each team  is in. And I don't mean just their position on the battle map, but also if they have been knocked off their feet, if they are directly facing more    stronger opponents, or if they have been stunned or injured by a blow! Creatures must work together bring down the stronger opponents and protect     their allies when they are in trouble.
+
 Every round of combat is divided into 2 phases. There is a [[declaration-phase]], where creatures declare what they intend to do from lowest initiative to the highest (thus the faster creatures can react to the slower ones), and an [[action-phase]], where the actions actually take place (all actions happen at the same time unless one action would prevent another from happening in which case the one of the higher initiative creature takes priority)
 
 # declaration phase

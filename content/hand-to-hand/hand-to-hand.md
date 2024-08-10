@@ -8,6 +8,4 @@ The rolls are made and the results are tallied during the [[action-phase]], and 
 
 If there is a tie in wins for a round, there is no winner in the exchange for that round.
 
-Creatures can also preform various combat [[maneuvers]].
-
-
+Creatures can also preform various combat [[maneuvers]] as their intentions and abilities dictate.
