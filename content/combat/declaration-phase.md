@@ -4,7 +4,7 @@ At the top of every round the initiative order is rolled by a d6 plus your agili
 
 Creatures declare what they intend to do from lowest initiative to the highest (thus the faster creatures can react to the slower ones)
 
-is recommended for the GM to have a notebook and pencil on hand to notate actions as they are declared. Symbolic shorthand follows for the most    common actions.
+is recommended for the GM to have a notebook and pencil on hand to notate actions as they are declared. Symbolic shorthand follows for the most common actions.
 
 example: subject verb object
 creature doing the action, action, creature or object being acted upon. 

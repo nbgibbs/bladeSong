@@ -8,7 +8,7 @@ At the top of every round the initiative order is rolled by a d6 plus your agili
 
 Creatures declare what they intend to do from lowest initiative to the highest (thus the faster creatures can react to the slower ones)
 
-Actions include movement, engaging other creatures in [[hand-to-hand]], using a [[ranged]] weapon, interacting with an object, etc.
+Actions include movement, engaging other creatures in [[hand-to-hand]], using a [[ranged]] [[weapons|weapon]]], interacting with an object, etc.
 
 changing weapons happens at the end of the round that the intent was declared on. 
 
