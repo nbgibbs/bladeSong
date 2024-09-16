@@ -2,4 +2,4 @@ In my opinion, the best part about TTRPG's is how you bring together a group of 
 
 The rules here are designed to reinforce the immersion of the story being created. For example, skill checks are such that the more skilled you are the more consistent you will be. There is always still a chance you will fail or exceed all expectation, but if you've done something a thousand times you should have a pretty good idea of how well you will do. 
 
-Blade Song is designed to be a simplistic ttrpg without too much arithmetic. Combat is designed to be cinematic where at any moment the tables can turn and you must rely on your friends to haul you back to your feet and get you back in the fight. 
+Blade Song is designed to be a simplistic ttrpg without too much arithmetic. [[Combat]] is designed to be cinematic where at any moment the tables can turn and you must rely on your friends to haul you back to your feet and get you back in the fight. 
