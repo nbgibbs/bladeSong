@@ -14,3 +14,4 @@ title: Welcome to the Blade Song rulebook
 	* [[focus]]
 	* [[adrenaline]]
 * [[README]]
+* [[magic]]
