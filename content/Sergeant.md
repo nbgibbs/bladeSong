@@ -1,5 +1,7 @@
-| Hit Points |     |     |     |     |  X  | Sergeant | Player Name |
-| ---------- | --- | --- | --- | --- | :-: | -------- | ----------- |
+
+| Hit Points Max | Injuries | Character Name | Player Name |
+| -------------- | -------- | -------------- | ----------- |
+|                |          |                |             |
 
 | Adrenaline | Focus |
 | ---------- | ----- |
@@ -15,23 +17,23 @@
 
 ### Skills
 ---
-+1 Strength
-	+1 intimidate 
-	+1 Grapple 
-	+1 Throw
-+0 Agility
-	+1 Acrobatics
-	+1 Climb
-	Swim
-+2 Charisma
-	+1 Persuasion
-	Deception
-	Performance
-	+1 Leadership
--1 Deftness
-	Perception
-	Stealth
-	Dexterity
-	Survival
-	Crafting
-+1 Intelligence
+- +1 Strength
+	 - +1 intimidate 
+	 - +1 Grapple 
+	 - +1 Throw
+- +0 Agility
+	- +1 Acrobatics
+	- +1 Climb
+	- Swim
+- +2 Charisma
+	- +1 Persuasion
+	- Deception
+	- Performance
+	- +1 Leadership
+- -1 Deftness
+	- Perception
+	- Stealth
+	- Dexterity
+	- Survival
+	- Crafting
+- +1 Intelligence

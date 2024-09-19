@@ -13,5 +13,7 @@ title: Welcome to the Blade Song rulebook
 * [[attributes]]
 	* [[focus]]
 	* [[adrenaline]]
+	* [[Character Sheet]]
+	* [[Example Characters]]
 * [[README]]
 * [[magic]]
