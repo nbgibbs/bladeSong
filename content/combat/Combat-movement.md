@@ -12,6 +12,6 @@ More often than not eyeballing it will be sufficient.
 
 	i.e. 2 creatures are moving directly towards one another in such a way that their paths would overlap, the GM can assume they are moving at a steady pace and they will meet in the middle
 
-If hostile creatures enter the reach of one another by default they stop where they are and engage in hand to hand. (for exceptions see combat [[maneuvers]])
+If hostile creatures enter the reach of one another by default they stop where they are and engage in hand to hand. (for exceptions see combat [[Combat Maneuvers]])
 
 A dash action may be taken which doubles a creatures movement speed. If they do so they may not take any other action or combat maneuver (unless otherwise stated) and if they are engaged in [[hand-to-hand]] they cannot win [[victory levels]] (if the dashing creature rolls higher it is considered a tie.

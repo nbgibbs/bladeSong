@@ -3,7 +3,7 @@
 
 * Minor [[injury]], opponent receives – 1 to all physical checks but will naturally heal over the next few days, or faster if treated actively.
 * Stun (gain the initiative on the next round)
-* Stagger(- 1 on next round)
+*   push deliver 1 stagger counter and push the opponent backwards or to the side one unit of [[forced movement]].
 * Enter/exit close combat, can choose to change weapons with another equipped weapon for free instead of weapon changes happening at the end of the action-phase of the round they are declared on.
 * if in close combat take opponent to ground (prone)
 
