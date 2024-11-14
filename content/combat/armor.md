@@ -1,8 +1,8 @@
-Armor reduces the effective [[injury]] that a creature takes in combat. 
+Armor reduces the level of [[injury]] that a creature receives in combat or any other time. 
 
-Armor is a lifesaver in combat. It won't stop you from getting hit (or getting tackled for that matter), but it will change a fatal injury into just a few bruises if someone tries to hurt you. 
+Armor is a lifesaver in combat. It won't stop you from getting hit (or getting tripped or tackled for that matter), but it will change a fatal injury into just a scratch, a few bruises or maybe nothing at all if someone tries to hurt you. 
 
-Heavy or poorly fitting armor will also reduce your agility modifier.
+Heavy or poorly fitting armor will reduce your agility modifier so its important to get armor that is well fitted.
 
 The injury level is reduced by the effective armor level, but the [[victory levels]] remains the same. 
 
