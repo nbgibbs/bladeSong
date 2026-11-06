@@ -1,0 +1,2 @@
+[[ranged]] weapons
+[[meele]] weapons
